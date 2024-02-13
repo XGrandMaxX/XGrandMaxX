@@ -45,11 +45,16 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 
 ## 🐱‍👤 My stats
 
-<a href="https://leetcode.com/XGrandMaxX">
-<img height="200" src="https://leetcard.jacoblin.cool/XGrandMaxX?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="GrandMax's Leetcode Stats"/>
-</a>
-
-![GrandMax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrandMax&count_private=false&theme=dracula&show_icons=true)
+<table>
+    <td>
+      <a href="https://leetcode.com/XGrandMaxX"> </a>
+        <img height="200" src="https://leetcard.jacoblin.cool/XGrandMaxX?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="GrandMax's Leetcode Stats"/>
+    </td>
+    <td>
+      <a href="https://github.com/XGrandMaxX"> </a>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=GrandMax&count_private=false&theme=dracula&show_icons=true" alt="GrandMax's GitHub Stats"/>
+    </td>
+</table>
 
 
   
