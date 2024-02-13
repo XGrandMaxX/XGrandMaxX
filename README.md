@@ -43,11 +43,15 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ![DOTween](https://img.shields.io/badge/DOTween-gray?style=for-the-badge&logo=unity&logoColor=white)
 
 
-## 🛠 LeetCode
+## 🐱‍👤 My stats
 
+<span>
 <a href="https://leetcode.com/XGrandMaxX">
-<img height="316" src="https://leetcard.jacoblin.cool/XGrandMaxX?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="GrandMax's Leetcode Stats"/>
+<img height="200" src="https://leetcard.jacoblin.cool/XGrandMaxX?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="GrandMax's Leetcode Stats"/>
 </a>
+
+![GrandMax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrandMax&count_private=false&theme=dracula&show_icons=true)
+</span>
 
 
   
@@ -59,3 +63,5 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 [![VK](https://img.shields.io/badge/-Vk-purple?style=for-the-badge&logo=vk&logoColor=white7)](https://vk.com/m.alexeev00)
 
 ![](https://komarev.com/ghpvc/?username=GrandMax&color=blue)
+<br />
+<img src="https://hits.dwyl.com/GrandMax/GrandMax.svg?style=flat" alt="hit counter" width="100px" />
