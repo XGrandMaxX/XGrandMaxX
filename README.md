@@ -12,24 +12,24 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 
 <br />
 
-![Gold](https://img.shields.io/badge/Gold-gold?style=for-the-badge)  Know perfectly, been applying for a very long time (2 years+)
+<img src="https://img.shields.io/badge/Gold-gold?style=for-the-badge" height="21">  Know perfectly, been applying for a very long time (2 years+)
 
-![Blue](https://img.shields.io/badge/Blue-blue?style=for-the-badge)  Been studying and applying for a long time (1 year+)
+<img src="https://img.shields.io/badge/Purple-purple?style=for-the-badge" height="21"> Been studying and applying for a long time (1 year+)
 
-![Green](https://img.shields.io/badge/Green-green?style=for-the-badge)  Recently started studying and applying
+<img src="https://img.shields.io/badge/Blue-blue?style=for-the-badge" height="21">  Recently started studying and applying
 
-![Gray](https://img.shields.io/badge/Gray-gray?style=for-the-badge)  Haven't applied much, but actively studying now
+<img src="https://img.shields.io/badge/Gray-gray?style=for-the-badge" height="21">  Haven't applied much, but actively studying now
 
 ## 🛠 Languages & Tools
 
   
-![C#](https://img.shields.io/badge/Csharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualStudio&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-purple?style=for-the-badge&logo=unity&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
 <br />
-![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git&logoColor=white)
-![Rider](https://img.shields.io/badge/-Rider-green?style=for-the-badge&logo=rider&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-green?style=for-the-badge&logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-blue?style=for-the-badge&logo=rider&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)
 <br />
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -37,8 +37,8 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 🛠 Assets & Frameworks
 
   
-![Zenject](https://img.shields.io/badge/-Zenject-green?style=for-the-badge&logo=unity&logoColor=white)
-![New Input System](https://img.shields.io/badge/-New_Input_System-green?style=for-the-badge&logo=unity&logoColor=white)
+![Zenject](https://img.shields.io/badge/-Zenject-blue?style=for-the-badge&logo=unity&logoColor=white)
+![New Input System](https://img.shields.io/badge/-New_Input_System-blue?style=for-the-badge&logo=unity&logoColor=white)
 <br />
 ![DOTween](https://img.shields.io/badge/DOTween-gray?style=for-the-badge&logo=unity&logoColor=white)
 
