@@ -36,7 +36,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
   
 ## 🛠 Assets & Frameworks
 
-[![Zenject](https://img.shields.io/badge/-Zenject-blue?style=for-the-badge&logo=unity&logoColor=white)](https://leetcode.com/XGrandMaxX)
+[![Zenject](https://img.shields.io/badge/-Zenject-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
 [![New Input System](https://img.shields.io/badge/-New_Input_System-blue?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
 <br />
 [![DOTween](https://img.shields.io/badge/DOTween-gray?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
