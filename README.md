@@ -26,23 +26,24 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ![C#](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-purple?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe&logoColor=white)
 <br />
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
 ![Rider](https://img.shields.io/badge/-Rider-blue?style=for-the-badge&logo=rider&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe&logoColor=white)
 <br />
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white)
 
   
-## 🛠 Assets & Frameworks
+## 🛠 Assets & Frameworks (Clickable)
 
 [![Zenject](https://img.shields.io/badge/-Zenject-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
 [![New Input System](https://img.shields.io/badge/-New_Input_System-blue?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
 <br />
 [![DOTween](https://img.shields.io/badge/DOTween-gray?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+[![Mirror](https://img.shields.io/badge/Mirror-gray?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror)
 
 
-## 🐱‍👤 My stats
+## 🐱‍👤 My stats (Clickable)
 
 <table>
     <td>
@@ -59,7 +60,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 
 
   
-## 👩🏼‍🤝‍🧑🏻 Socials
+## 👩🏼‍🤝‍🧑🏻 Socials (Clickable)
 
   
 [![Discord](https://img.shields.io/badge/-Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kGEjVVp5sW)
