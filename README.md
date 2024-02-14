@@ -63,9 +63,9 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 👩🏼‍🤝‍🧑🏻 Socials (Clickable)
 
   
-[![Discord](https://img.shields.io/badge/-Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kGEjVVp5sW)
-[![Telegram](https://img.shields.io/badge/-Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GrandMax23)
-[![VK](https://img.shields.io/badge/-Vk-purple?style=for-the-badge&logo=vk&logoColor=white7)](https://vk.com/m.alexeev00)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=ACEEB)](https://discord.gg/kGEjVVp5sW)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=ACEEB)](https://t.me/GrandMax23)
+[![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=vk&logoColor=4285B4)](https://vk.com/m.alexeev00)
 
 ![Users](https://komarev.com/ghpvc/?username=GrandMax&color=red)
 <br />
