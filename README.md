@@ -53,7 +53,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
     </td>
     <td>
       <a href="https://github.com/XGrandMaxX">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=GrandMax&count_private=false&theme=dracula&show_icons=true" alt="GrandMax's GitHub Stats"/>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=XGrandMaxX&count_private=false&theme=dracula&show_icons=true" alt="GrandMax's GitHub Stats"/>
          </a>
     </td>
 </table>
