@@ -63,7 +63,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 👩🏼‍🤝‍🧑🏻 Socials (Clickable)
 
   
-[![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=ACEEB)](https://discord.gg/kGEjVVp5sW)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=ACEEB)](https://discord.gg/8hnWNcMWft)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=ACEEB)](https://t.me/GrandMax23)
 [![VK](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=vk&logoColor=4285B4)](https://vk.com/m.alexeev00)
 
