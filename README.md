@@ -26,10 +26,10 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ![C#](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-purple?style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-purple?style=for-the-badge&logo=rider&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe&logoColor=white)
 <br />
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
-![Rider](https://img.shields.io/badge/-Rider-blue?style=for-the-badge&logo=rider&logoColor=white)
 <br />
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white)
 
