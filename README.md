@@ -1,8 +1,8 @@
 <h1 align="center"> Hey there 👋 My name is Maxim</h1>
 
-🌱 I’m currently learning <b> DOTween </b>
+🌱 Currently learning DOTween.
 
-👯 I want to participate in Game Jams.
+👯 Looking to find a good team for Unity project development.
 
 🤝 I’m looking for help with Machine Learning (Unity ML)
 
