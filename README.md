@@ -18,7 +18,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 
 <img src="https://img.shields.io/badge/Blue-blue?style=for-the-badge" height="21">  Recently started studying and applying.
 
-<img src="https://img.shields.io/badge/Green-green?style=for-the-badge" height="21">  Limited application, currently studying actively.
+<img src="https://img.shields.io/badge/Gray-gray?style=for-the-badge" height="21">  Limited application, currently studying actively.
 
 ## 🛠 Languages & Tools
 
