@@ -12,13 +12,13 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 
 <br />
 
-<img src="https://img.shields.io/badge/Gold-gold?style=for-the-badge" height="21">  Know perfectly, been applying for a very long time (2 years+)
+<img src="https://img.shields.io/badge/Gold-gold?style=for-the-badge" height="21">  Proficient, extensive experience.
 
-<img src="https://img.shields.io/badge/Purple-purple?style=for-the-badge" height="21"> Been studying and applying for a long time (1 year+)
+<img src="https://img.shields.io/badge/Purple-purple?style=for-the-badge" height="21"> Studied and applied for an extended period.
 
-<img src="https://img.shields.io/badge/Blue-blue?style=for-the-badge" height="21">  Recently started studying and applying
+<img src="https://img.shields.io/badge/Blue-blue?style=for-the-badge" height="21">  Recently started studying and applying.
 
-<img src="https://img.shields.io/badge/Gray-gray?style=for-the-badge" height="21">  Haven't applied much, but actively studying now
+<img src="https://img.shields.io/badge/Green-green?style=for-the-badge" height="21">  Limited application, currently studying actively.
 
 ## 🛠 Languages & Tools
 
