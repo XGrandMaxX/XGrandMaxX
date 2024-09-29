@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there 👋 My name is Maxim</h1>
 
-🌱 Currently learning DOTween.
+🌱 Currently learning Mirror.
 
 👯 Looking to find a good team for Unity project development.
 
