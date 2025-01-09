@@ -23,12 +23,13 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 🛠 Languages & Tools
 
   
-![Csharp](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-purple?style=for-the-badge&logo=unity&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
-![Rider](https://img.shields.io/badge/-Rider-purple?style=for-the-badge&logo=rider&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=sharp&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-purple?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br />
+
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
 <br />
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white)
