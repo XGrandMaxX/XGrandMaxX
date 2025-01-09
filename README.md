@@ -23,11 +23,11 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 🛠 Languages & Tools
 
   
-![C#](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
+![Csharp](https://img.shields.io/badge/Csharp-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-purple?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge&logo=visualStudio&logoColor=white)
 ![Rider](https://img.shields.io/badge/-Rider-purple?style=for-the-badge&logo=rider&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobe&logoColor=white)
 <br />
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
 <br />
@@ -36,11 +36,13 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
   
 ## 🛠 Assets & Frameworks (Clickable)
 
-[![Zenject](https://img.shields.io/badge/-Zenject-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
+[![Zenject](https://img.shields.io/badge/-Zenject-purple?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
+<br />
 [![New Input System](https://img.shields.io/badge/-New_Input_System-blue?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
 [![DOTween](https://img.shields.io/badge/DOTween-blue?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+[![Mirror](https://img.shields.io/badge/Mirror-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror)
 <br />
-[![Mirror](https://img.shields.io/badge/Mirror-gray?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror)
+<!--[![Mirror](https://img.shields.io/badge/Mirror-gray?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror) -->
 
 
 ## 🐱‍👤 My stats (Clickable)
