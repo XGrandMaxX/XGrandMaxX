@@ -30,7 +30,7 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 <br />
 
-![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=git&logoColor=white)
 <br />
 ![Blender](https://img.shields.io/badge/-Blender-gray?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -38,9 +38,11 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 ## 🛠 Assets & Frameworks (Clickable)
 
 [![Zenject](https://img.shields.io/badge/-Zenject-purple?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
+[![New Input System](https://img.shields.io/badge/-New_Input_System-purple?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
+[![DOTween](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+[![UniTask](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+[![UnityLocalization](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 <br />
-[![New Input System](https://img.shields.io/badge/-New_Input_System-blue?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
-[![DOTween](https://img.shields.io/badge/DOTween-blue?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 [![Mirror](https://img.shields.io/badge/Mirror-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror)
 <br />
 <!--[![Mirror](https://img.shields.io/badge/Mirror-gray?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror) -->
