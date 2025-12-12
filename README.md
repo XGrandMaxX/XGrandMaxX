@@ -40,8 +40,8 @@ Gradations by color for Languages & Tools and Assets & Frameworks:
 [![Zenject](https://img.shields.io/badge/-Zenject-purple?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/modesttree/Zenject)
 [![New Input System](https://img.shields.io/badge/-New_Input_System-purple?style=for-the-badge&logo=unity&logoColor=white)](https://cadacreate.medium.com/getting-started-new-input-system-in-unity-c5a726937f53)
 [![DOTween](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
-[![UniTask](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)]([https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676](https://github.com/Cysharp/UniTask))
-[![UnityLocalization](https://img.shields.io/badge/DOTween-purple?style=for-the-badge&logo=unity&logoColor=white)]()
+[![UniTask](https://img.shields.io/badge/UniTask-purple?style=for-the-badge&logo=unity&logoColor=white)]([https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676](https://github.com/Cysharp/UniTask))
+[![UnityLocalization](https://img.shields.io/badge/UnityLocalization-purple?style=for-the-badge&logo=unity&logoColor=white)]()
 <br />
 [![Mirror](https://img.shields.io/badge/Mirror-blue?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/MirrorNetworking/Mirror)
 <br />
